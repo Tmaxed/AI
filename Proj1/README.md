@@ -1,20 +1,23 @@
 Wrote with python 3.8
 
-need
+
+
+### needs
 
 pip install numpy
 
 pip install matplotlib
 
 
-execute with randomgrid mazes with liveplotting
 
-**python forward.py random 1**
+### execute with randomgrid mazes with liveplotting
 
-execute with backtracker mazes without liveplotting
+python forward.py random 1
 
-**python forward.py backtrack 2**
+### execute with backtracker mazes without liveplotting
 
-generate new 50 mazes of each type(code from professor)
+python forward.py backtrack 2
 
-**python grid-world-generator.py 50**
+### generate new 50 mazes of each type(code from professor)
+
+python grid-world-generator.py 50
